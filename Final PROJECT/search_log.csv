@@ -1,0 +1,40 @@
+cough,Cough,Common Cold,Rest; Fluids; Cough suppressant,"Viral infection, Allergies, Smoking"
+allergy,Allergy,Not recognized,Consult a healthcare professional,Unknown
+blood pressure,Blood pressure,Not recognized,Consult a healthcare professional,Unknown
+insomnia,Insomnia,Insomnia,Sleep hygiene; Cognitive behavioral therapy,"Stress, Anxiety, Poor sleep habits"
+fatigue,Fatigue,Chronic Fatigue Syndrome,Rest; Balanced diet; Stress management,"Stress, Sleep disorders, Viral infection"
+fatigue,Fatigue,Chronic Fatigue Syndrome,Rest; Balanced diet; Stress management,"Stress, Sleep disorders, Viral infection"
+cough,Cough,Common Cold,Rest; Fluids; Cough suppressant,"Viral infection, Allergies, Smoking"
+fever,Fever,Infection,Rest and hydration; Antipyretics,"Viral infection, Bacterial infection, Heat exhaustion"
+cough,"
+Symptom: Cough
+  Diagnosis: Common Cold
+  Treatment: Rest; Fluids; Cough suppressant
+  Probable Causes: Viral infection, Allergies, Smoking
+"
+fatigue,"
+Symptom: Fatigue
+  Diagnosis: Chronic Fatigue Syndrome
+  Treatment: Rest; Balanced diet; Stress management
+  Probable Causes: Stress, Sleep disorders, Viral infection
+"
+dengue,"
+Symptom: Dengue
+  Diagnosis: Symptom not recognized. Please consult a healthcare professional.
+"
+constipation,"
+Symptom: Constipation
+  Diagnosis: Constipation
+  Treatment: Increased fiber intake; Hydration
+  Probable Causes: Lack of dietary fiber, Dehydration, Lack of physical activity
+"
+dizzyness,"
+Symptom: Dizzyness
+  Diagnosis: Symptom not recognized. Please consult a healthcare professional.
+"
+dizziness,"
+Symptom: Dizziness
+  Diagnosis: Vertigo
+  Treatment: Medication; Physical therapy
+  Probable Causes: Inner ear infection, Dehydration, Low blood pressure
+"
